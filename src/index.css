@@ -33,4 +33,6 @@ body {
   color: #fff;
   font-size: 14.46px;
   letter-spacing: -7.5%;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
 }
