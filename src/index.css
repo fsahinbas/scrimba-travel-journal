@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.container {
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 7px;
+  height: 55px;
+  background-color: #f55a5a;
+  color: #fff;
+  font-size: 14.46px;
+  letter-spacing: -7.5%;
+}
