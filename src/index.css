@@ -20,6 +20,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #fff;
+  border-radius: 9px;
 }
 
 .pageHeader {
